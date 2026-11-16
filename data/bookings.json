@@ -1,0 +1,10 @@
+[
+  {
+    "booking_id": 1,
+    "event_id": 1,
+    "customer_name": "TAHA",
+    "quantity": 2,
+    "total_price": 90.0,
+    "status": "CONFIRMED"
+  }
+]

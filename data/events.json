@@ -1,0 +1,26 @@
+[
+  {
+    "event_id": 1,
+    "name": "Rock Concert",
+    "date": "2026-12-05 20:00",
+    "price": 45.0,
+    "total_seats": 100,
+    "booked_seats": 2
+  },
+  {
+    "event_id": 2,
+    "name": "Movie Night: Sci-Fi",
+    "date": "2026-12-10 19:30",
+    "price": 12.5,
+    "total_seats": 50,
+    "booked_seats": 0
+  },
+  {
+    "event_id": 3,
+    "name": "Football Match",
+    "date": "2026-12-20 18:00",
+    "price": 30.0,
+    "total_seats": 200,
+    "booked_seats": 0
+  }
+]
